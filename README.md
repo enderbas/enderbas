@@ -12,16 +12,15 @@ I specialize in optimizing processes, streamlining workflows, and enhancing syst
 
 ## 🌱 Learning and Growth
 
-- Advanced Python programming
-- Machine Learning and AI
+- System Design
+- AI solutions
 - Cloud Computing (AWS, Azure)
 
 ## 🛠️ Skills and Tools
 
-- **Languages**: C++, C, Python
-- **Frameworks**: Qt, gRPC, protobuf
-- **Tools**: CMake, Git, Docker, Bash Script, OpenCV, SQL, Vector Canalyzer, Lauterbach Trace32
-- **Methodologies**: Scrum, Jama Project Management
+- **Languages**: C++, C, Python, Java
+- **Tools**: CMake, Git, Docker, OpenCV, SQL
+- **Methodologies**: Scrum, Agile, Jama, Jira, 
 - **Platforms**: Linux, Windows, Embedded Systems
 
 ## 📈 GitHub Stats
